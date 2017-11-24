@@ -64,7 +64,7 @@
 
 #API
 ---
-![excel-to-db](res/excel-to-db-open-api.png)
+![excel-to-db](res/excel-to-db-api.png)
 
 
 ---
