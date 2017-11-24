@@ -1,4 +1,5 @@
 ![excel-to-db](res/excel-to-db-logo.jpg)
+
 #** excel-to-db for Cocos Creator **
 
 
@@ -59,24 +60,7 @@
 ##游戏中使用流程
 ####API
 ---
-+ EXCEL_TO_DB
-    + getAll()
-    + getFromFile ( excelname )
-    
-| | 必选 | 类型 | 说明 |
-|:-------------:|:-------------|:-------------|
-| excelname | true | string or Array | 获取某个excel的数据 |
-
-
----
-+ EXCEL_TO_DB
-    + loadAll ( callback )
-    + loadFromFile ( excelname , callback )
-    
-| | 必选 | 类型 | 说明 |
-|:-------------:|:-------------|:-------------|
-| excelname | true | string or Array | 获取某个excel的数据 |
-| callback | false| function | 加载完成后的回调函数 |
+![excel-to-db](res/excel-to-db-api.jpg)
 
 
 ---
