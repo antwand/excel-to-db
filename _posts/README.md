@@ -15,11 +15,11 @@
 
 ###插件使用
 * 插件安装方法
-
+---------
     *  请参考 [扩展编辑器:安装与分享](http://www.cocos.com/docs/creator/extension/install-and-share.html) 文档。
 
 * 使用环境
-
+---------
     *  首先从主菜单打开 excel-to-db 面板： `拓展->excel-to-db->open`。 会弹出如下面板
     ![mahua](res/excel-to-db-open.png)
 
