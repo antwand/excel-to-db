@@ -60,7 +60,7 @@
 ##游戏中使用流程
 ####API
 ---
-![excel-to-db](res/excel-to-db-api.jpg)
+![excel-to-db](res/excel-to-db-api.png)
 
 
 ---
