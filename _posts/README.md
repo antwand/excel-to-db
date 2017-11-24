@@ -1,6 +1,6 @@
 ![excel-to-db](res/excel-to-db-logo.jpg)
 
-# excel-to-db for Cocos Creator **
+# excel-to-db for Cocos Creator 
 
 
 
@@ -13,7 +13,7 @@
 
 
 
-##插件使用
+###插件使用
 * 插件安装方法
 
     *  请参考 [扩展编辑器:安装与分享](http://www.cocos.com/docs/creator/extension/install-and-share.html) 文档。
@@ -31,7 +31,7 @@
             * EXCEL
         
 
-* 插件导出流程
+###插件导出流程
 
     * 点击按钮=》“选择导入excel文件夹”，选择原始excel配置文件路径<br>
       注意这里尽量用默认路径，即项目根目录下的EXCEL文件夹
@@ -57,7 +57,8 @@
 
 
 
-##游戏中使用流程
+###游戏中使用流程
+
 ####API
 ---
 ![excel-to-db](res/excel-to-db-open-api.png)
