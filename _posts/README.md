@@ -1,6 +1,6 @@
 ![excel-to-db](res/excel-to-db-logo.jpg)
 
-#** excel-to-db for Cocos Creator **
+# excel-to-db for Cocos Creator **
 
 
 
